@@ -16,7 +16,7 @@ const TEMPLATE_CONFIG = [
       
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
       
-      {{comprehensive_horoscope.DATA}}
+      {{notice.DATA}}
       
       ---
       
@@ -25,8 +25,6 @@ const TEMPLATE_CONFIG = [
       {{birthday_message.DATA}}
       
       ---
-      
-      {{moment_copyrighting.DATA}}
       
       {{earthy_love_words.DATA}}
     `
